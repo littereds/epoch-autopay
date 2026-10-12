@@ -31,4 +31,4 @@ The bot verifies on-chain and delivers.
 
 ## Contact
 
-Discord: **litereds**
+[Discord: litereds](https://discord.com/users/755490894991327354)
